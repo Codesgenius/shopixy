@@ -1,0 +1,2 @@
+# shopixy
+AffiliateMe site: shopixy
